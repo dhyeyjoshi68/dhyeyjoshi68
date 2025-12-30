@@ -1,16 +1,29 @@
-## Hi there 👋
+Dhyey Joshi
 
-<!--
-**dhyeyjoshi68/dhyeyjoshi68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Systems Technology student specializing in Software Development and Network Engineering. I build practical projects focused on software development, desktop applications, networking fundamentals, and system-level concepts. I enjoy learning by building and gradually improving real-world applications.
 
-Here are some ideas to get you started:
+🔧 Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software development (Python, C, Java)
+Web development (HTML, CSS, JavaScript)
+Desktop applications
+Linux and system fundamentals
+Networking concepts and protocols
+
+📌 Current Work
+
+Developing personal projects such as a desktop music player (Sakuryn)
+Strengthening problem-solving and core programming fundamentals
+Expanding knowledge in networking and operating systems
+
+🎯 Goals
+
+Build clean, functional, real-world projects
+Strengthen full-stack and system-level understanding
+Prepare for co-op and entry-level software or IT roles
+
+📫 Contact
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourusername
