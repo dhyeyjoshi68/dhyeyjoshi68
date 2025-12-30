@@ -24,6 +24,6 @@ Prepare for co-op and entry-level software or IT roles
 
 📫 Contact
 
-GitHub: [dhyeyjoshi68](https://github.com/dhyeyjoshi68)
+Email: dhyeyjoshi68@gmail.com
 
 LinkedIn: [Dhyey Joshi](https://www.linkedin.com/in/dhyey-joshi-6633302b0/)
